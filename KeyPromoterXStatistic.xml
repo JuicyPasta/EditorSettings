@@ -9,6 +9,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Maximize Tool Window">
         <Item>
           <IdeaActionID>MaximizeToolWindow</IdeaActionID>
@@ -30,7 +38,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Milestone1Test.testLlvmBenchma...'</Description>
-          <Count>35</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -39,6 +47,14 @@
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop...">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
