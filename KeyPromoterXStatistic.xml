@@ -1,0 +1,38 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Maximize Tool Window">
+        <Item>
+          <IdeaActionID>MaximizeToolWindow</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Quote'</ShortCut>
+          <Description>Maximize Tool Window</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Milestone1Test.testLlvmBenchma...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Milestone1Test.testLlvmBenchma...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>
