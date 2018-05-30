@@ -6,7 +6,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -17,12 +17,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
+          <Description>Paste</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Milestone1Test.testLlvmBenchma...'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Milestone1Test.testLlvmBenchma...'</Description>
-          <Count>10</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -33,12 +41,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+    </option>
+    <option name="suppressed">
       <Statistic Action="Stop 'Milestone1Test.testLlvmBenchmarks'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Milestone1Test.testLlvmBenchmarks'</Description>
-          <Count>4</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
     </option>
