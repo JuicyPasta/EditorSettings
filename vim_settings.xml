@@ -338,12 +338,10 @@
         <mark key="^" line="19" column="10" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" timestamp="1527807554948">
-        <mark key="'" line="37" column="4" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="15" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="23" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" timestamp="1527810131197">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/operand/Phi.java" timestamp="1526501533628">
         <mark key="'" line="25" column="0" />
@@ -374,11 +372,11 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/mixed/mixed.mini" timestamp="1527707365942">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="70" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/mixed/mixed.mini" timestamp="1527809873610">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="28" column="1" />
+        <mark key="." line="57" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmPush.java" timestamp="1525832662042">
         <mark key="'" line="9" column="0" />
@@ -623,9 +621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="20" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="109" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="151" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
       <jump line="40" column="12" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
       <jump line="37" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
       <jump line="56" column="84" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
@@ -706,7 +701,6 @@
       <jump line="66" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
       <jump line="40" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
       <jump line="42" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="43" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
       <jump line="44" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
       <jump line="45" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
       <jump line="32" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
@@ -719,10 +713,14 @@
       <jump line="25" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
       <jump line="27" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
       <jump line="29" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="31" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
       <jump line="33" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
       <jump line="35" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
+      <jump line="25" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/mixed/mixed.mini" />
+      <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
+      <jump line="31" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
       <jump line="37" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
+      <jump line="43" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
+      <jump line="46" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -735,31 +733,31 @@
         <text encoding="base64">ICAgIHByaW50KG51bSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBlZzEuc2l6ZSA9IDEwMDsKICAgIHByaW50KDEwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0bXAgPSBtYXRoMS5iYXIgKiBtYXRoMi5iYXI7CiAgICAgICAgdG1wID0gKHRtcCAqIG1hdGgxLnNpbXAub25lKSAvIG1hdGgyLmJhcjsKICAgICAgICB0bXAgPSBhZGQobWF0aDIuc2ltcC5vbmUsIG1hdGgxLmJhcik7CiAgICAgICAgdG1wID0gbWF0aDIuYmFyIC0gbWF0aDEuYmFyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVsZXRlIG1hdGgxOwogICAgICBkZWxldGUgbWF0aDI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBlZzEuc2l6ZSA9IDEwMDsK</text>
+        <text encoding="base64">ICAgIHdoaWxlKG51bSA+IDApCiAgICB7CiAgICAgICAgcHJpbnQobnVtKTsKICAgICAgICB0bXAgPSBtYXRoMS5iYXIgKiBtYXRoMi5iYXI7CiAgICAgICAgdG1wID0gKHRtcCAqIG1hdGgxLnNpbXAub25lKSAvIG1hdGgyLmJhcjsKICAgICAgICB0bXAgPSBhZGQobWF0aDIuc2ltcC5vbmUsIG1hdGgxLmJhcik7CiAgICAgICAgdG1wID0gbWF0aDIuYmFyIC0gbWF0aDEuYmFyOwogICAgICAgIG51bSA9IG51bSAtIDE7CiAgICB9CgogICAgICBkZWxldGUgbWF0aDE7CiAgICAgIGRlbGV0ZSBtYXRoMjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgU3RyaW5nLmZvcm1hdCgiXHRsZHJcdCVzLCBbJXNdIiwgcmVzdWx0LCByZXN1bHQpICsgbGl2ZVNldFN0cigpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50KG51bSk7CiAgICBtYXRoMS5iYXIgPSBudW07CiAgICBtYXRoMi5iYXIgPSAzOwogICAgbWF0aDEuc2ltcC5vbmUgPSBtYXRoMS5iYXI7CiAgICBtYXRoMi5zaW1wLm9uZSA9IG1hdGgyLmJhcjsKCiAgICBwcmludChudW0pOwogICAgd2hpbGUobnVtID4gMCkKICAgIHsKICAgICAgICBwcmludChudW0pOwogICAgICAgIHRtcCA9IG1hdGgxLmJhciAqIG1hdGgyLmJhcjsKICAgICAgICB0bXAgPSAodG1wICogbWF0aDEuc2ltcC5vbmUpIC8gbWF0aDIuYmFyOwogICAgICAgIHRtcCA9IGFkZChtYXRoMi5zaW1wLm9uZSwgbWF0aDEuYmFyKTsKICAgICAgICB0bXAgPSBtYXRoMi5iYXIgLSBtYXRoMS5iYXI7CiAgICAgICAgbnVtID0gbnVtIC0gMTsKICAgIH0KCiAgICAgIGRlbGV0ZSBtYXRoMTsKICAgICAgZGVsZXRlIG1hdGgyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIG1hdGgxID0gbmV3IGZvbzsKICAgIG1hdGgxLnNpbXAgPSBuZXcgc2ltcGxlOwogICAgbWF0aDIgPSBuZXcgZm9vOwogICAgbWF0aDIuc2ltcCA9IG5ldyBzaW1wbGU7CgogICAgcHJpbnQobnVtKTsKICAgIG1hdGgxLmJhciA9IG51bTsKICAgIG1hdGgyLmJhciA9IDM7CiAgICBtYXRoMS5zaW1wLm9uZSA9IG1hdGgxLmJhcjsKICAgIG1hdGgyLnNpbXAub25lID0gbWF0aDIuYmFyOwoKICAgIHByaW50KG51bSk7CiAgICB3aGlsZShudW0gPiAwKQogICAgewogICAgICAgIHByaW50KG51bSk7CiAgICAgICAgdG1wID0gbWF0aDEuYmFyICogbWF0aDIuYmFyOwogICAgICAgIHRtcCA9ICh0bXAgKiBtYXRoMS5zaW1wLm9uZSkgLyBtYXRoMi5iYXI7CiAgICAgICAgdG1wID0gYWRkKG1hdGgyLnNpbXAub25lLCBtYXRoMS5iYXIpOwogICAgICAgIHRtcCA9IG1hdGgyLmJhciAtIG1hdGgxLmJhcjsKICAgICAgICBudW0gPSBudW0gLSAxOwogICAgfQoKICAgICAgZGVsZXRlIG1hdGgxOwogICAgICBkZWxldGUgbWF0aDI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoYW5kbGVPdmVyZmxvd1JlZ2lzdGVycygpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50KG51bSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gcmVtb3ZlIGVkZ2VzIGZyb20gdGFyZ2V0IHRvIGV2ZXJ5dGhpbmcgaW4gbGl2ZSBzZXQKLy8gICAgICAgIGtpbGxTZXQuZm9yRWFjaCh0YXJnZXQgLT4gewovLyAgICAgICAgICAgIGxpdmVTZXQuZm9yRWFjaChyZWcgLT4gewovLyAgICAgICAgICAgICAgICByZW1vdmVFZGdlKHJlZywgdGFyZ2V0KTsKLy8gICAgICAgICAgICB9KTsKLy8gICAgICAgIH0pOwoK</text>
+        <text encoding="base64">ZnVuIGRvbWF0aChpbnQgbnVtKSB2b2lkCnsKICAgIHByaW50KG51bSk7CiAgICBwZWcxLnNpemUgPSAxMDA7CiAgICBwcmludChudW0pOwogICAgcGVnMS5zaXplID0gMTAwOwogICAgcHJpbnQobnVtKTsKICAgIHBlZzEuc2l6ZSA9IDEwMDsKICAgIHByaW50KG51bSk7CiAgICBwZWcxLnNpemUgPSAxMDA7CiAgICBwcmludChudW0pOwogICAgcGVnMS5zaXplID0gMTAwOwogICAgcHJpbnQobnVtKTsKICAgIHBlZzEuc2l6ZSA9IDEwMDsKICAgIHByaW50KG51bSk7CiAgICBwZWcxLnNpemUgPSAxMDA7CiAgICBwcmludChudW0pOwogICAgcGVnMS5zaXplID0gMTAwOwogICAgcGVnMS5zaXplID0gMTAwOwoKfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHBlZzEuc2l6ZSA9IDEwMDsKICAgIHByaW50KDEwMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRvQ29sb3IuZ2V0UGh5c2ljYWxSZWcoKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkFERElORyBQUkVDT0xPUkVEOiAiICsgdG9Db2xvci50b1N0cmluZygpICsgIiAiICsgdG9Db2xvci5nZXRQaHlzaWNhbFJlZygpKQogICAgICAgICAgICAgICAgY29sb3JNYXBwaW5nLnB1dCh0b0NvbG9yLCB0b0NvbG9yLmdldFBoeXNpY2FsUmVnKCkpOwogICAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
