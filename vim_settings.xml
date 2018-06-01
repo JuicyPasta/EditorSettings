@@ -197,12 +197,12 @@
         <mark key="." line="37" column="68" />
         <mark key="^" line="37" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" timestamp="1527653979937">
-        <mark key="'" line="41" column="8" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="52" />
-        <mark key="^" line="40" column="30" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" timestamp="1527827303967">
+        <mark key="'" line="52" column="12" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="59" column="11" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Bitcast.java" timestamp="1526172012040">
         <mark key="'" line="34" column="0" />
@@ -394,7 +394,6 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/TestOutput/simple.ssa.s" timestamp="1527823116842" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/expressions/InvocationExpression.java" timestamp="1526425672316">
         <mark key="'" line="52" column="12" />
         <mark key="[" line="67" column="102" />
@@ -490,7 +489,7 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/TestOutput/simple.ssa.ll" timestamp="1527823071846" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/TestOutput/simple.ssa.ll" timestamp="1527826522666" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/mixed/mixed.mini" timestamp="1527822653885">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="48" column="0" />
@@ -626,12 +625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="53" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="54" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="73" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/InterferenceGraph.java" />
-      <jump line="108" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/operand/VirtualRegister.java" />
       <jump line="37" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
       <jump line="39" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
       <jump line="44" column="53" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallPrintf.java" />
@@ -726,52 +719,58 @@
       <jump line="48" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/mixed/mixed.mini" />
       <jump line="45" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
       <jump line="79" column="12" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
+      <jump line="54" column="12" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
+      <jump line="21" column="30" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/TestOutput/simple.ssa.s" />
+      <jump line="31" column="43" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/TestOutput/simple.ssa.s" />
+      <jump line="50" column="12" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
+      <jump line="52" column="12" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text />
+        <text>scratchSpaceLoc</text>
       </register>
       <register name="/" type="4">
-        <text>num</text>
+        <text>r63</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0bXAgPSBtYXRoMS5iYXIgKiBtYXRoMi5iYXI7CiAgICAgICAgdG1wID0gKHRtcCAqIG1hdGgxLnNpbXAub25lKSAvIG1hdGgyLmJhcjsKICAgICAgICB0bXAgPSBhZGQobWF0aDIuc2ltcC5vbmUsIG1hdGgxLmJhcik7CiAgICAgICAgdG1wID0gbWF0aDIuYmFyIC0gbWF0aDEuYmFyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmlydHVhbFJlZ2lzdGVyIG5ld1N0b3JlTG9jID0gc3RvcmFnZUxvY2F0aW9uLnRvQXJtUmVnaXN0ZXIoaW5zdHJzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KG51bSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KG51bSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RvcmFnZUxvY2F0aW9uIGluc3RhbmNlb2YgVmlydHVhbFJlZ2lzdGVyKSB7CiAgICAgICAgICAgIGludCBzdGFja09mZnNldCA9IGZ1bmN0aW9uR3JhcGguZ2V0U3RhY2tPZmZzZXQoKFZpcnR1YWxSZWdpc3Rlcikgc3RvcmFnZUxvY2F0aW9uKTsKICAgICAgICAgICAgaW5zdHJzLmFkZChuZXcgQXJtU3RyKHZhbHVlLCBzdG9yYWdlTG9jYXRpb24sIHN0YWNrT2Zmc2V0KSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgVmlydHVhbFJlZ2lzdGVyIG5ld1N0b3JlTG9jID0gc3RvcmFnZUxvY2F0aW9uLnRvQXJtUmVnaXN0ZXIoaW5zdHJzKTsKICAgICAgICAgICAgaW5zdHJzLmFkZChuZXcgQXJtU3RyKHZhbHVlLCBuZXdTdG9yZUxvYywgLTEwMCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChudW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFmdW5jdGlvbkdyYXBoLmZ1bmN0aW9uR3JhcGguc3NhKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGEgPSByZWFkOwogICAgYiA9IHJlYWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGMgPSByZWFkOwogICAgZCA9IHJlYWQ7CiAgICBlID0gcmVhZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFja2VybWFubig0LCA0KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBWaXJ0dWFsUmVnaXN0ZXIgc2NyYXRjaFNwYWNlTG9jID0gbmV3IFZpcnR1YWxSZWdpc3RlcigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoYkluc3RyIGluc3RhbmNlb2YgQXJtQikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRQcmVkLmluc3RydWN0aW9ucy5hZGQoaiwgbmV3IEFybU1vdihkZXN0aW5hdGlvbiwgdmFsdWUpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>num</last-search>
+      <last-search>r63</last-search>
       <last-offset />
-      <last-pattern>num</last-pattern>
+      <last-pattern>r63</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>numMoves</last-substitute>
       <last-dir>1</last-dir>
@@ -800,6 +799,7 @@
         <entry>ackermann</entry>
         <entry>retval</entry>
         <entry>num</entry>
+        <entry>r63</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
