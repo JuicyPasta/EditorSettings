@@ -127,7 +127,6 @@
         <mark key="." line="33" column="91" />
         <mark key="^" line="33" column="91" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/creativeBenchMarkName/TestOutput/creativeBenchMarkName.ssa.s" timestamp="1527881531275" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmMovlt.java" timestamp="1525847280441">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="7" column="34" />
@@ -163,11 +162,11 @@
         <mark key="^" line="19" column="10" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" timestamp="1527877915945">
-        <mark key="[" line="79" column="25" />
-        <mark key="]" line="79" column="28" />
-        <mark key="." line="79" column="28" />
-        <mark key="^" line="79" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" timestamp="1527884798492">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="73" column="12" />
+        <mark key="." line="73" column="12" />
+        <mark key="^" line="73" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Call.java" timestamp="1527208072297">
         <mark key="'" line="81" column="0" />
@@ -211,12 +210,11 @@
         <mark key="." line="37" column="68" />
         <mark key="^" line="37" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" timestamp="1527882154745">
-        <mark key="'" line="65" column="16" />
-        <mark key="[" line="52" column="61" />
-        <mark key="]" line="52" column="60" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" timestamp="1527884675819">
+        <mark key="[" line="62" column="116" />
+        <mark key="]" line="65" column="0" />
         <mark key="^" line="52" column="60" />
-        <mark key="." line="52" column="60" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Bitcast.java" timestamp="1526172012040">
         <mark key="'" line="34" column="0" />
@@ -529,7 +527,6 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/creativeBenchMarkName/TestOutput/creativeBenchMarkName.stack.s" timestamp="1527881648224" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/RetVoid.java" timestamp="1526611431924">
         <mark key="'" line="16" column="4" />
         <mark key="[" line="12" column="0" />
@@ -641,8 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/operand/VirtualRegister.java" />
-      <jump line="95" column="10" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/InterferenceGraph.java" />
       <jump line="28" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/InterferenceGraph.java" />
       <jump line="96" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/InterferenceGraph.java" />
       <jump line="98" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/InterferenceGraph.java" />
@@ -720,7 +715,6 @@
       <jump line="31" column="43" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/TestOutput/simple.ssa.s" />
       <jump line="50" column="12" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
       <jump line="48" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
-      <jump line="52" column="12" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
       <jump line="118" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/hanoi_benchmark/hanoi_benchmark.mini" />
       <jump line="58" column="6" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/hanoi_benchmark/hanoi_benchmark.mini" />
       <jump line="62" column="6" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/hanoi_benchmark/hanoi_benchmark.mini" />
@@ -741,6 +735,9 @@
       <jump line="47" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/creativeBenchMarkName/creativeBenchMarkName.mini" />
       <jump line="56" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
       <jump line="65" column="16" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
+      <jump line="61" column="12" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -750,34 +747,34 @@
         <text>r63</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFZpcnR1YWxSZWdpc3RlciBuZXdTdG9yZUxvYyA9IHN0b3JhZ2VMb2NhdGlvbi50b0FybVJlZ2lzdGVyKGluc3Rycyk7CiAgICAgICAgICAgICAgICBpbnN0cnMuYWRkKG5ldyBBcm1TdHIodmFsdWUsIG5ld1N0b3JlTG9jLCAtMTAwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmlydHVhbFJlZ2lzdGVyIHNjcmF0Y2hTcGFjZUxvYyA9IG5ldyBWaXJ0dWFsUmVnaXN0ZXIoKTsKICAgICAgICAgICAgaW5zdHJzLmFkZChuZXcgQXJtTW92dyhzY3JhdGNoU3BhY2VMb2MsIG5ldyBBcm1JbW1lZGlhdGUoIiM6bG93ZXIxNjoucmVhZF9zY3JhdGNoIikpKTsKICAgICAgICAgICAgaW5zdHJzLmFkZChuZXcgQXJtTW92dChzY3JhdGNoU3BhY2VMb2MsIG5ldyBBcm1JbW1lZGlhdGUoIiM6dXBwZXIxNjoucmVhZF9zY3JhdGNoIikpKTsKICAgICAgICAgICAgaW5zdHJzLmFkZChuZXcgQXJtTGRyKHZhbHVlLCBzY3JhdGNoU3BhY2VMb2MpKTsKCiAgICAgICAgICAgIGlmIChzdG9yYWdlTG9jYXRpb24gaW5zdGFuY2VvZiBWaXJ0dWFsUmVnaXN0ZXIpIHsKICAgICAgICAgICAgICAgIGludCBzdGFja09mZnNldCA9IGZ1bmN0aW9uR3JhcGguZ2V0U3RhY2tPZmZzZXQoKFZpcnR1YWxSZWdpc3Rlcikgc3RvcmFnZUxvY2F0aW9uKTsKICAgICAgICAgICAgICAgIGluc3Rycy5hZGQobmV3IEFybVN0cih2YWx1ZSwgc3RvcmFnZUxvY2F0aW9uLCBzdGFja09mZnNldCkpOwogICAgICAgICAgICB9IGVsc2UgeyAvLyBnbG9iYWwKICAgICAgICAgICAgICAgIFZpcnR1YWxSZWdpc3RlciBuZXdTdG9yZUxvYyA9IHN0b3JhZ2VMb2NhdGlvbi50b0FybVJlZ2lzdGVyKGluc3Rycyk7CiAgICAgICAgICAgICAgICBpbnN0cnMuYWRkKG5ldyBBcm1TdHIodmFsdWUsIG5ld1N0b3JlTG9jLCAtMTAwKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KDEwMDAqMTAwIC8gMTIzNDUpOwogICAgcHJpbnQoMTAwMCoxMDAwIC8gMTIzKTsKICAgIHByaW50KDEwMDAqMTAwMDAgLyAxMik7CiAgICBwcmludCgxMDAwKjEwMDAwMC8gNzgpOwogICAgcHJpbnQoMTAwMCoxMDAwMDAwIC8gMTIzNCk7CiAgICBwcmludCgxMDAwKjEwMDAwMDAwIC8gMSk7CiAgICBwcmludCgxMDAwKjEwMDAwMDAwMCAvIDkpOwogICAgcHJpbnQoMTAwMCoxMDAwMDAwMDAwIC8gMyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAoMTIzKTsKICAgICAgICBwcmludCBwcm9kdWN0OwogICAgICAgIHByaW50IGN1ci52YWx1ZSBlbmRsOwoK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmICghKHN0b3JhZ2VMb2NhdGlvbiBpbnN0YW5jZW9mIFZpcnR1YWxSZWdpc3RlcikpIHsKICAgICAgICAgICAgICAgIFZpcnR1YWxSZWdpc3RlciBuZXdTdG9yZUxvYyA9IHN0b3JhZ2VMb2NhdGlvbi50b0FybVJlZ2lzdGVyKGluc3Rycyk7CiAgICAgICAgICAgICAgICBpbnN0cnMuYWRkKG5ldyBBcm1TdHIodmFsdWUsIG5ld1N0b3JlTG9jLCAtMTAwKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdHJzLmFkZChuZXcgQXJtTW92dygoVmlydHVhbFJlZ2lzdGVyKSBzdG9yYWdlTG9jYXRpb24sIG5ldyBBcm1JbW1lZGlhdGUoIiM6bG93ZXIxNjoucmVhZF9zY3JhdGNoIikpKTsKICAgICAgICAgICAgaW5zdHJzLmFkZChuZXcgQXJtTW92dCgoVmlydHVhbFJlZ2lzdGVyKSBzdG9yYWdlTG9jYXRpb24sIG5ldyBBcm1JbW1lZGlhdGUoIiM6dXBwZXIxNjoucmVhZF9zY3JhdGNoIikpKTsKCiAgICAgICAgICAgIGlmICghKHN0b3JhZ2VMb2NhdGlvbiBpbnN0YW5jZW9mIFZpcnR1YWxSZWdpc3RlcikpIHsKICAgICAgICAgICAgICAgIFZpcnR1YWxSZWdpc3RlciBuZXdTdG9yZUxvYyA9IHN0b3JhZ2VMb2NhdGlvbi50b0FybVJlZ2lzdGVyKGluc3Rycyk7CiAgICAgICAgICAgICAgICBpbnN0cnMuYWRkKG5ldyBBcm1TdHIodmFsdWUsIG5ld1N0b3JlTG9jLCAtMTAwKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAoMTIzKSBlbmRsOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAoMTIzKTsKICAgICAgICBwcmludCBwcm9kdWN0OwogICAgICAgIHByaW50IGN1ci52YWx1ZSBlbmRsOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAoMTIzKSBlbmRsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgcAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
