@@ -31,6 +31,7 @@
         <mark key="." line="4" column="55" />
         <mark key="^" line="4" column="55" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/TestOutput/simple.stack.s" timestamp="1527973402524" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/ReturnStatement.java" timestamp="1526438743587">
         <mark key="'" line="51" column="12" />
         <mark key="[" line="51" column="0" />
@@ -57,12 +58,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmLdr.java" timestamp="1527807371423">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="9" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Store.java" timestamp="1527551571083">
         <mark key="'" line="63" column="12" />
@@ -211,7 +206,7 @@
         <mark key="." line="37" column="68" />
         <mark key="^" line="37" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" timestamp="1527884675819">
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" timestamp="1527973738845">
         <mark key="[" line="62" column="116" />
         <mark key="]" line="65" column="0" />
         <mark key="^" line="52" column="60" />
@@ -357,12 +352,6 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmStr.java" timestamp="1527661171370">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-      </file>
       <file name="E:/Google Drive/School/CSC365/lab3/bakery/bakery-cleanup.sql" timestamp="1507707267334">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -371,16 +360,10 @@
         <mark key="^" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/creativeBenchMarkName/TestOutput/creativeBenchMarkName.ssa.ll" timestamp="1527881575461" />
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/AssignmentStatement.java" timestamp="1527900397661">
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/AssignmentStatement.java" timestamp="1527973649496">
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/InstructionSetsResult.java" timestamp="1527649168639">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="10" />
-        <mark key="^" line="10" column="10" />
-        <mark key="." line="10" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" timestamp="1527835129341">
         <mark key="[" line="45" column="28" />
@@ -408,6 +391,7 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="45" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/TestOutput/simple.ssa.s" timestamp="1527973566325" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/expressions/InvocationExpression.java" timestamp="1526425672316">
         <mark key="'" line="52" column="12" />
         <mark key="[" line="67" column="102" />
@@ -533,9 +517,6 @@
         <mark key="]" line="9" column="3" />
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1527832906960">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmBeq.java" timestamp="1524977421307">
         <mark key="'" line="2" column="0" />
