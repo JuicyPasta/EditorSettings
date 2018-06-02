@@ -30,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -70,7 +70,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Milestone1Test.testLlvmBenchma...'</Description>
-          <Count>154</Count>
+          <Count>159</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
