@@ -482,6 +482,7 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/TestOutput/simple.ssa.ll" timestamp="1527975561768" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmPush.java" timestamp="1525832662042">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="15" column="0" />
