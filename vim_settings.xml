@@ -204,7 +204,7 @@
         <mark key="^" line="19" column="54" />
         <mark key="." line="19" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/hanoi_benchmark/hanoi_benchmark.mini" timestamp="1527980727720">
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/hanoi_benchmark/hanoi_benchmark.mini" timestamp="1527994606367">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
@@ -394,11 +394,11 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" timestamp="1527981143018">
-        <mark key="[" line="51" column="205" />
-        <mark key="]" line="51" column="225" />
-        <mark key="." line="51" column="225" />
-        <mark key="^" line="51" column="225" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" timestamp="1527994743448">
+        <mark key="[" line="45" column="28" />
+        <mark key="]" line="45" column="27" />
+        <mark key="." line="45" column="27" />
+        <mark key="^" line="45" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/expressions/UnaryExpression.java" timestamp="1526361507753">
         <mark key="'" line="74" column="15" />
@@ -545,6 +545,9 @@
         <mark key="]" line="9" column="3" />
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1527981357284">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmBeq.java" timestamp="1524977421307">
         <mark key="'" line="2" column="0" />
@@ -746,7 +749,7 @@
         <text>22222</text>
       </register>
       <register name="/" type="4">
-        <text>r63</text>
+        <text>bool</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KDIyMjIyKTsK</text>
@@ -783,9 +786,9 @@
       </register>
     </registers>
     <search>
-      <last-search>r63</last-search>
+      <last-search>bool</last-search>
       <last-offset />
-      <last-pattern>r63</last-pattern>
+      <last-pattern>bool</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>numMoves</last-substitute>
       <last-dir>1</last-dir>
@@ -815,6 +818,10 @@
         <entry>retval</entry>
         <entry>num</entry>
         <entry>r63</entry>
+        <entry>r13</entry>
+        <entry>r14</entry>
+        <entry>r15</entry>
+        <entry>bool</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
