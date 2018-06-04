@@ -57,11 +57,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmLdr.java" timestamp="1527807371423">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="9" column="10" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmLdr.java" timestamp="1528142860493">
+        <mark key="'" line="38" column="12" />
+        <mark key="[" line="38" column="42" />
+        <mark key="]" line="38" column="42" />
+        <mark key="." line="38" column="42" />
+        <mark key="^" line="38" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Store.java" timestamp="1527551571083">
         <mark key="'" line="63" column="12" />
@@ -90,12 +91,12 @@
         <mark key="^" line="68" column="7" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Load.java" timestamp="1527977793102">
-        <mark key="'" line="39" column="12" />
-        <mark key="[" line="39" column="62" />
-        <mark key="]" line="39" column="62" />
-        <mark key="." line="39" column="62" />
-        <mark key="^" line="39" column="62" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Load.java" timestamp="1528142173110">
+        <mark key="'" line="48" column="12" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="48" column="102" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/expressions/Expression.java" timestamp="1528089202224">
         <mark key="'" line="13" column="4" />
@@ -124,6 +125,9 @@
         <mark key="]" line="48" column="51" />
         <mark key="^" line="48" column="49" />
         <mark key="." line="48" column="49" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/bert/TestOutput/bert.ssa.s" timestamp="1528141717267">
+        <mark key="'" line="60" column="17" />
       </file>
       <file name="E:/Google Drive/School/CSC365/lab3/bakery/bakery-schema.sql" timestamp="1507704090368">
         <mark key="'" line="0" column="0" />
@@ -241,6 +245,7 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmGraph.java" timestamp="1528141675387" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Add.java" timestamp="1525909999524">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="24" column="0" />
@@ -254,6 +259,9 @@
         <mark key="]" line="7" column="10" />
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/brett/TestOutput/brett.ssa.s" timestamp="1528142823910">
+        <mark key="'" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmAbstractInstruction.java" timestamp="1525945352918">
         <mark key="'" line="27" column="8" />
@@ -370,12 +378,11 @@
         <mark key="^" line="27" column="73" />
         <mark key="." line="27" column="73" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/expressions/IdentifierExpression.java" timestamp="1527200310346">
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/expressions/IdentifierExpression.java" timestamp="1528141886911">
         <mark key="'" line="42" column="12" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="34" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmStr.java" timestamp="1527661171370">
         <mark key="[" line="7" column="4" />
@@ -651,31 +658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/InterferenceGraph.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="122" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="141" column="20" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="147" column="18" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="179" column="16" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="166" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/Milestone1Test.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/Milestone1Test.java" />
-      <jump line="58" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/Milestone1Test.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/Milestone1Test.java" />
-      <jump line="169" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="172" column="20" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="70" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/mixed/mixed.mini" />
-      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="59" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/mixed/mixed.mini" />
-      <jump line="38" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="65" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="30" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/mixed/mixed.mini" />
-      <jump line="50" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="14" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/mixed/mixed.mini" />
-      <jump line="21" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="52" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="82" column="12" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="86" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
       <jump line="87" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
       <jump line="89" column="16" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
       <jump line="91" column="16" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
@@ -751,40 +733,65 @@
       <jump line="40" column="12" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Load.java" />
       <jump line="57" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/hanoi_benchmark/hanoi_benchmark.mini" />
       <jump line="62" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/hanoi_benchmark/hanoi_benchmark.mini" />
+      <jump line="16" column="15" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/bert/TestOutput/bert.ssa.s" />
+      <jump line="17" column="1" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/bert/TestOutput/bert.ssa.s" />
+      <jump line="20" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/bert/TestOutput/bert.ssa.s" />
+      <jump line="37" column="35" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/bert/TestOutput/bert.ssa.s" />
+      <jump line="38" column="35" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/bert/TestOutput/bert.ssa.s" />
+      <jump line="39" column="29" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/bert/TestOutput/bert.ssa.s" />
+      <jump line="40" column="29" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/bert/TestOutput/bert.ssa.s" />
+      <jump line="41" column="10" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/bert/TestOutput/bert.ssa.s" />
+      <jump line="42" column="35" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/bert/TestOutput/bert.ssa.s" />
+      <jump line="43" column="34" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/bert/TestOutput/bert.ssa.s" />
+      <jump line="51" column="6" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/bert/TestOutput/bert.ssa.s" />
+      <jump line="69" column="17" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/bert/TestOutput/bert.ssa.s" />
+      <jump line="20" column="54" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/BenchMarkishTopics/TestOutput/BenchMarkishTopics.ssa.s" />
+      <jump line="25" column="13" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/BenchMarkishTopics/TestOutput/BenchMarkishTopics.ssa.s" />
+      <jump line="48" column="12" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Load.java" />
+      <jump line="39" column="12" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmLdr.java" />
+      <jump line="25" column="64" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/brett/TestOutput/brett.ssa.s" />
+      <jump line="91" column="25" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/brett/TestOutput/brett.ssa.s" />
+      <jump line="92" column="25" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/brett/TestOutput/brett.ssa.s" />
+      <jump line="1645" column="15" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/brett/TestOutput/brett.ssa.s" />
+      <jump line="1646" column="3" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/brett/TestOutput/brett.ssa.s" />
+      <jump line="1653" column="25" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/brett/TestOutput/brett.ssa.s" />
+      <jump line="1654" column="25" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/brett/TestOutput/brett.ssa.s" />
+      <jump line="1662" column="27" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/brett/TestOutput/brett.ssa.s" />
+      <jump line="4" column="10" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/brett/TestOutput/brett.ssa.s" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>22222</text>
+        <text>upper16</text>
       </register>
       <register name="/" type="4">
-        <text>bool</text>
+        <text>counter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KDIyMjIyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcuZm9ybWF0KCJtb3Z0XHQlcyAjOnVwcGVyMTY6JXMiLCByZXN1bHQsIHZhbHVlLnRvU3RyaW5nKCkuc3Vic3RyaW5nKDEpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpbnN0cnMuYWRkKG5ldyBBcm1MZHIocmVzdWx0LCBwdHIpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHRyLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VmpkCiAgICAgICAgICAgIEluc3RydWN0aW9uU2V0c1Jlc3VsdCBtb3ZJbnN0ciA9IG5ldyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KDMzMzMzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KDIyMjIyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KDExMTExKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -794,18 +801,17 @@
       </register>
     </registers>
     <search>
-      <last-search>bool</last-search>
+      <last-search>counter</last-search>
       <last-offset />
-      <last-pattern>bool</last-pattern>
+      <last-pattern>counter</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>numMoves</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>System.out</entry>
-        <entry>intList</entry>
         <entry>.s</entry>
         <entry>asdf</entry>
         <entry>sdiv</entry>
@@ -824,6 +830,10 @@
         <entry>r14</entry>
         <entry>r15</entry>
         <entry>bool</entry>
+        <entry>a</entry>
+        <entry>.a</entry>
+        <entry>intList</entry>
+        <entry>counter</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
