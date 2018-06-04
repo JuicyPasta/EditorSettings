@@ -91,12 +91,12 @@
         <mark key="." line="39" column="62" />
         <mark key="^" line="39" column="62" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/expressions/Expression.java" timestamp="1528088077654">
-        <mark key="'" line="15" column="4" />
-        <mark key="[" line="15" column="30" />
-        <mark key="]" line="15" column="31" />
-        <mark key="^" line="15" column="31" />
-        <mark key="." line="15" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/expressions/Expression.java" timestamp="1528089202224">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/FunctionGraph.java" timestamp="1527977438333">
         <mark key="'" line="105" column="0" />
@@ -263,7 +263,11 @@
         <mark key="." line="8" column="10" />
         <mark key="^" line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/Statement.java" timestamp="1528088058382" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/Statement.java" timestamp="1528089748000">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/InterferanceGraph.java" timestamp="1525778784742">
         <mark key="'" line="24" column="8" />
         <mark key="[" line="9" column="30" />
@@ -488,6 +492,7 @@
         <mark key="^" line="44" column="14" />
         <mark key="." line="46" column="16" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/AbstractStatement.java" timestamp="1528089744792" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmMovne.java" timestamp="1525847286619">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="8" column="34" />
@@ -752,31 +757,31 @@
         <text encoding="base64">ICAgIHByaW50KDIyMjIyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KDMzMzMzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KDIyMjIyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KDExMTExKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KDMzMzMzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAoMTIzKTsKICAgICAgICBwcmludCBwcm9kdWN0OwogICAgICAgIHByaW50IGN1ci52YWx1ZSBlbmRsOwo=</text>
+        <text encoding="base64">ICAgIHByaW50KDIyMjIyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KDExMTExKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCA2NjY2IGVuZGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
