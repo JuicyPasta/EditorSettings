@@ -31,7 +31,6 @@
         <mark key="." line="4" column="55" />
         <mark key="^" line="4" column="55" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/TestOutput/simple.stack.s" timestamp="1527973402524" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/ReturnStatement.java" timestamp="1526438743587">
         <mark key="'" line="51" column="12" />
         <mark key="[" line="51" column="0" />
@@ -92,7 +91,7 @@
         <mark key="." line="39" column="62" />
         <mark key="^" line="39" column="62" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/expressions/Expression.java" timestamp="1526361338079">
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/expressions/Expression.java" timestamp="1528088077654">
         <mark key="'" line="15" column="4" />
         <mark key="[" line="15" column="30" />
         <mark key="]" line="15" column="31" />
@@ -236,7 +235,6 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/creativeBenchMarkName/TestOutput/creativeBenchMarkName.stack.ll" timestamp="1527882059849" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Add.java" timestamp="1525909999524">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="24" column="0" />
@@ -265,6 +263,7 @@
         <mark key="." line="8" column="10" />
         <mark key="^" line="8" column="10" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/Statement.java" timestamp="1528088058382" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/InterferanceGraph.java" timestamp="1525778784742">
         <mark key="'" line="24" column="8" />
         <mark key="[" line="9" column="30" />
@@ -381,7 +380,6 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/creativeBenchMarkName/TestOutput/creativeBenchMarkName.ssa.ll" timestamp="1527881575461" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/AssignmentStatement.java" timestamp="1527977483266">
         <mark key="'" line="79" column="20" />
         <mark key="[" line="79" column="0" />
@@ -570,7 +568,6 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="/ArmFunctionGraph.java" timestamp="1527807254886" />
       <file name="E:/Google Drive/School/CSC365/lab3/students/students-modify.sql" timestamp="1507876020085">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -792,16 +789,10 @@
       <last-replace>~</last-replace>
       <last-substitute>numMoves</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>103</entry>
-        <entry>ret void null</entry>
-        <entry>quickSortMain</entry>
-        <entry>returnRegister</entry>
-        <entry>144</entry>
-        <entry>numMoves</entry>
         <entry>System.out</entry>
         <entry>intList</entry>
         <entry>.s</entry>
