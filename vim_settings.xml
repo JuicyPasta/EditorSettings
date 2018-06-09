@@ -24,11 +24,11 @@
         <mark key="." line="40" column="55" />
         <mark key="^" line="40" column="55" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" timestamp="1528508169654">
-        <mark key="[" line="24" column="76" />
-        <mark key="]" line="24" column="81" />
-        <mark key="." line="24" column="81" />
-        <mark key="^" line="24" column="81" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" timestamp="1528509569903">
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="22" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/ReturnStatement.java" timestamp="1526438743587">
         <mark key="'" line="51" column="12" />
@@ -761,7 +761,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>test1.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>counter</text>

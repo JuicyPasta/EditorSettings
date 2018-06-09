@@ -70,7 +70,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Milestone1Test.testLlvmBenchma...'</Description>
-          <Count>180</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
