@@ -24,12 +24,11 @@
         <mark key="." line="40" column="55" />
         <mark key="^" line="40" column="55" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" timestamp="1527879486335">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="4" column="43" />
-        <mark key="]" line="4" column="55" />
-        <mark key="." line="4" column="55" />
-        <mark key="^" line="4" column="55" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" timestamp="1528508169654">
+        <mark key="[" line="24" column="76" />
+        <mark key="]" line="24" column="81" />
+        <mark key="." line="24" column="81" />
+        <mark key="^" line="24" column="81" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/ReturnStatement.java" timestamp="1526438743587">
         <mark key="'" line="51" column="12" />
@@ -659,13 +658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="89" column="16" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="91" column="16" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="84" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="68" column="12" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="88" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
-      <jump line="69" column="16" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
       <jump line="94" column="16" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/InterferenceGraph.java" />
       <jump line="91" column="16" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/InterferenceGraph.java" />
       <jump line="202" column="20" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/TestOutput/simple.ssa.s" />
@@ -759,31 +751,38 @@
       <jump line="1654" column="25" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/brett/TestOutput/brett.ssa.s" />
       <jump line="1662" column="27" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/brett/TestOutput/brett.ssa.s" />
       <jump line="4" column="10" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/brett/TestOutput/brett.ssa.s" />
+      <jump line="14" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" />
+      <jump line="16" column="2" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" />
+      <jump line="15" column="2" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" />
+      <jump line="8" column="2" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" />
+      <jump line="17" column="2" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" />
+      <jump line="20" column="2" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" />
+      <jump line="21" column="2" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>upper16</text>
+        <text>test1.</text>
       </register>
       <register name="/" type="4">
         <text>counter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcuZm9ybWF0KCJtb3Z0XHQlcyAjOnVwcGVyMTY6JXMiLCByZXN1bHQsIHZhbHVlLnRvU3RyaW5nKCkuc3Vic3RyaW5nKDEpKTsK</text>
+        <text encoding="base64">ICB3YyAtbCAkZC9UZXN0T3V0cHV0Lyouc3NhLnMgPiAkZC9UZXN0T3V0cHV0L2FybS5zc2Eud2MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpbnN0cnMuYWRkKG5ldyBBcm1MZHIocmVzdWx0LCBwdHIpKTsK</text>
+        <text encoding="base64">ICB3YyAtbCAkZC9UZXN0T3V0cHV0Lyouc3NhLnMgPiAkZC9UZXN0T3V0cHV0L2FybS5zc2Eud2MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHRyLnRvU3RyaW5nKCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpbnN0cnMuYWRkKG5ldyBBcm1MZHIocmVzdWx0LCBwdHIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VmpkCiAgICAgICAgICAgIEluc3RydWN0aW9uU2V0c1Jlc3VsdCBtb3ZJbnN0ciA9IG5ldyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHRyLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">VmpkCiAgICAgICAgICAgIEluc3RydWN0aW9uU2V0c1Jlc3VsdCBtb3ZJbnN0ciA9IG5ldyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
