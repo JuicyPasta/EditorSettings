@@ -24,11 +24,12 @@
         <mark key="." line="40" column="55" />
         <mark key="^" line="40" column="55" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" timestamp="1528509569903">
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="22" column="12" />
-        <mark key="." line="22" column="12" />
-        <mark key="^" line="22" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" timestamp="1528510564666">
+        <mark key="'" line="25" column="2" />
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="26" column="17" />
+        <mark key="." line="26" column="17" />
+        <mark key="^" line="24" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/ReturnStatement.java" timestamp="1526438743587">
         <mark key="'" line="51" column="12" />
@@ -658,10 +659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="16" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/InterferenceGraph.java" />
-      <jump line="91" column="16" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/InterferenceGraph.java" />
-      <jump line="202" column="20" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/TestOutput/simple.ssa.s" />
-      <jump line="107" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
       <jump line="79" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
       <jump line="66" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
       <jump line="40" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
@@ -758,6 +755,10 @@
       <jump line="17" column="2" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" />
       <jump line="20" column="2" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" />
       <jump line="21" column="2" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" />
+      <jump line="9" column="2" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" />
+      <jump line="19" column="2" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" />
+      <jump line="23" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" />
+      <jump line="25" column="2" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteScriptPi.sh" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -767,25 +768,25 @@
         <text>counter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB3YyAtbCAkZC9UZXN0T3V0cHV0Lyouc3NhLnMgPiAkZC9UZXN0T3V0cHV0L2FybS5zc2Eud2MK</text>
+        <text encoding="base64">ICBnY2MgLU8wIC1TICRkLyouYyA+IG9wdDAucwogIHdjIC1sIDwgJGQvb3B0MC5zID4gJGQvVGVzdE91dHB1dC9hcm0uZ2NjMC53Ywo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3YyAtbCAkZC9UZXN0T3V0cHV0Lyouc3NhLnMgPiAkZC9UZXN0T3V0cHV0L2FybS5zc2Eud2MK</text>
+        <text encoding="base64">ICBnY2MgLVMgJGQvKi5jCiAgd2MgLWwgPCAkZC8qLnMgPiAkZC9UZXN0T3V0cHV0L2FybS5nY2Mud2MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpbnN0cnMuYWRkKG5ldyBBcm1MZHIocmVzdWx0LCBwdHIpKTsK</text>
+        <text encoding="base64">ICB3YyAtbCAkZC9UZXN0T3V0cHV0Lyouc3NhLnMgPiAkZC9UZXN0T3V0cHV0L2FybS5zc2Eud2MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHRyLnRvU3RyaW5nKCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpbnN0cnMuYWRkKG5ldyBBcm1MZHIocmVzdWx0LCBwdHIpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VmpkCiAgICAgICAgICAgIEluc3RydWN0aW9uU2V0c1Jlc3VsdCBtb3ZJbnN0ciA9IG5ldyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHRyLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">VmpkCiAgICAgICAgICAgIEluc3RydWN0aW9uU2V0c1Jlc3VsdCBtb3ZJbnN0ciA9IG5ldyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
