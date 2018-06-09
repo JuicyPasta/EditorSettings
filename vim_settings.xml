@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/operand/Value.java" timestamp="1526185163188">
@@ -45,11 +45,6 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/creativeBenchMarkName/creativeBenchMarkName.mini" timestamp="1527980119232">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="E:/Google Drive/School/CSC365/lab3/cars/cars-setup.sql" timestamp="1507876042464">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="3" />
@@ -78,12 +73,6 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Instruction.java" timestamp="1528136714709">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/BinaryInstruction.java" timestamp="1525902178638">
         <mark key="'" line="68" column="8" />
         <mark key="[" line="68" column="0" />
@@ -105,6 +94,7 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/BenchMarkishTopics/TestOutput/arm.ssa.test1.perf" timestamp="1528515119594" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/FunctionGraph.java" timestamp="1527977438333">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="131" column="8" />
@@ -157,6 +147,7 @@
         <mark key="^" line="24" column="42" />
         <mark key="." line="26" column="18" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/bert/TestOutput/arm.gcc0.test1.perf" timestamp="1528515351921" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/tst/RemoteTestPi.sh" timestamp="1525849869667">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="41" />
@@ -171,6 +162,7 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/BenchMarkishTopics/TestOutput/arm.gcc3.test1.perf" timestamp="1528515087041" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Zext.java" timestamp="1526171977795">
         <mark key="'" line="40" column="8" />
         <mark key="[" line="40" column="0" />
@@ -213,11 +205,6 @@
         <mark key="^" line="19" column="54" />
         <mark key="." line="19" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/hanoi_benchmark/hanoi_benchmark.mini" timestamp="1527994606367">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/WhileStatement.java" timestamp="1526453675758">
         <mark key="'" line="50" column="8" />
         <mark key="[" line="37" column="56" />
@@ -226,12 +213,6 @@
         <mark key="^" line="37" column="68" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/brett/brett.mini" timestamp="1528145816836" />
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" timestamp="1527977721639">
-        <mark key="[" line="52" column="64" />
-        <mark key="]" line="52" column="64" />
-        <mark key="." line="52" column="64" />
-        <mark key="^" line="52" column="64" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Bitcast.java" timestamp="1526172012040">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="37" column="65" />
@@ -278,11 +259,6 @@
         <mark key="." line="8" column="10" />
         <mark key="^" line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/Statement.java" timestamp="1528089748000">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/InterferanceGraph.java" timestamp="1525778784742">
         <mark key="'" line="24" column="8" />
         <mark key="[" line="9" column="30" />
@@ -296,18 +272,13 @@
         <mark key="^" line="133" column="74" />
         <mark key="." line="133" column="74" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/BenchMarkishTopics/TestOutput/arm.gcc0.test1.perf" timestamp="1528515050241" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmBne.java" timestamp="1524977485529">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/stats/input" timestamp="1527981331434">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="1" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="1" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmMoveq.java" timestamp="1525847258240">
         <mark key="'" line="5" column="0" />
@@ -385,12 +356,6 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmStr.java" timestamp="1527661171370">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-      </file>
       <file name="E:/Google Drive/School/CSC365/lab3/bakery/bakery-cleanup.sql" timestamp="1507707267334">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -403,18 +368,6 @@
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/InstructionSetsResult.java" timestamp="1527649168639">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="10" />
-        <mark key="^" line="10" column="10" />
-        <mark key="." line="10" column="10" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" timestamp="1527994743448">
-        <mark key="[" line="45" column="28" />
-        <mark key="]" line="45" column="27" />
-        <mark key="." line="45" column="27" />
-        <mark key="^" line="45" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/expressions/UnaryExpression.java" timestamp="1526361507753">
         <mark key="'" line="74" column="15" />
@@ -528,6 +481,8 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/bert/TestOutput/arm.gcc3.test1.perf" timestamp="1528515472180" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/BenchMarkishTopics/TestOutput/arm.stack.test1.perf" timestamp="1528515176395" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmPush.java" timestamp="1525832662042">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="15" column="0" />
@@ -563,9 +518,7 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527981357284">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/bert/TestOutput/arm.stack.test1.perf" timestamp="1528515508892" />
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmBeq.java" timestamp="1524977421307">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="2" column="0" />
