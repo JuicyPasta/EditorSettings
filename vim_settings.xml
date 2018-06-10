@@ -412,12 +412,12 @@
         <mark key="." line="66" column="38" />
         <mark key="^" line="66" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" timestamp="1528535863154">
-        <mark key="'" line="16" column="3" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="21" column="5" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" timestamp="1528593163947">
+        <mark key="'" line="32" column="3" />
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="14" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Mul.java" timestamp="1525858005820">
         <mark key="'" line="22" column="0" />
@@ -663,23 +663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="30" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="25" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="27" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="29" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="33" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="35" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="25" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/mixed/mixed.mini" />
-      <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="31" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="37" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="43" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="46" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
-      <jump line="75" column="32" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmNode.java" />
-      <jump line="79" column="36" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmNode.java" />
-      <jump line="76" column="32" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmNode.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/mixed/mixed.mini" />
       <jump line="45" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/simple.mini" />
       <jump line="54" column="12" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
       <jump line="21" column="30" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/a_simple_teset/TestOutput/simple.ssa.s" />
@@ -763,43 +746,60 @@
       <jump line="17" column="3" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/lexparse/Makefile" />
       <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/lexparse/Makefile" />
+      <jump line="58" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
+      <jump line="51" column="3" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
+      <jump line="94" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
+      <jump line="77" column="6" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
+      <jump line="88" column="9" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
+      <jump line="87" column="59" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
+      <jump line="86" column="63" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
+      <jump line="78" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
+      <jump line="76" column="6" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
+      <jump line="136" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
+      <jump line="84" column="6" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
+      <jump line="81" column="6" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
+      <jump line="85" column="6" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
+      <jump line="53" column="3" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
+      <jump line="28" column="9" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
+      <jump line="32" column="3" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/MiniCompiler.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Main</text>
+        <text>Llvm</text>
       </register>
       <register name="/" type="4">
         <text>compileBoth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBQcm92aWRlZCBjb2RlIGFzc3VtZXMgSmF2YSA4CkpBVkFDPWphdmFjCkpBVkE9amF2YQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbXBpbGVMbHZtKG1pbmlGaWxlLCBfb3V0cHV0U3NhKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IE1haW4uTWluaUNvbXBpbGVyOwo=</text>
+        <text encoding="base64">ICAgcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIF9pbnB1dEZpbGUgPSBudWxsOwogICBwcml2YXRlIHN0YXRpYyBib29sZWFuIF9vdXRwdXRMbHZtID0gZmFsc2U7CiAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gX291dHB1dFNzYSA9IHRydWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBNYWluOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IE1pbmlDb21waWxlcgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBjb21waWxlKCkgewogICAgICAgIEZpbGVbXSB0b1Rlc3QgPSBhbGxCZW5jaG1hcmtzLmxpc3RGaWxlcygpOwoKICAgICAgICBmb3IgKEZpbGUgYmVuY2htYXJrRm9sZGVyIDogdG9UZXN0KSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQ09NUElMSU5HOiAiICsgYmVuY2htYXJrRm9sZGVyLmdldE5hbWUoKSk7CgogICAgICAgICAgICBGaWxlIG91dHB1dEJlbmNobWFya0ZvbGRlciA9IG5ldyBGaWxlKGJlbmNobWFya0ZvbGRlciArICIvVGVzdE91dHB1dC8iKTsKICAgICAgICAgICAgb3V0cHV0QmVuY2htYXJrRm9sZGVyLm1rZGlyKCk7CgogICAgICAgICAgICBGaWxlIG1pbmlGaWxlID0gQXJyYXlzLnN0cmVhbShiZW5jaG1hcmtGb2xkZXIubGlzdEZpbGVzKCkpCiAgICAgICAgICAgICAgICAgICAgLmZpbHRlcihmIC0+IGYuZ2V0TmFtZSgpLmNvbnRhaW5zKCIubWluaSIpKQogICAgICAgICAgICAgICAgICAgIC5maW5kRmlyc3QoKQogICAgICAgICAgICAgICAgICAgIC5nZXQoKTsKCiAgICAgICAgICAgIExleFBhcnNlIGxwID0gbmV3IExleFBhcnNlKG1pbmlGaWxlLmdldEFic29sdXRlUGF0aCgpKTsKICAgICAgICAgICAgbHAucGFyc2UoKTsKICAgICAgICAgICAgbHAuY2hlY2tUeXBlcygpOwogICAgICAgICAgICBQcm9ncmFtIHByb2cgPSBscC5nZXRQcm9ncmFtKCk7CiAgICAgICAgICAgIEFzdENvbnRleHQgYXN0Q29udGV4dCA9IGxwLmdldEFzdENvbnRleHQoKTsKCiAgICAgICAgICAgIExsdm1HcmFwaCBsbHZtID0gbmV3IExsdm1HcmFwaChwcm9nLCBhc3RDb250ZXh0LCB0cnVlKTsKICAgICAgICAgICAgTGx2bUdyYXBoIGxsdm1TdGFjayA9IG5ldyBMbHZtR3JhcGgocHJvZywgYXN0Q29udGV4dCwgZmFsc2UpOwoKICAgICAgICAgICAgRmlsZSBsbEZpbGUgPSBuZXcgRmlsZShvdXRwdXRCZW5jaG1hcmtGb2xkZXIgKyAiLyIgKyBtaW5pRmlsZS5nZXROYW1lKCkuc3Vic3RyaW5nKDAsIG1pbmlGaWxlLmdldE5hbWUoKS5sZW5ndGgoKSAtIDUpICsgIi5zc2EubGwiKTsKICAgICAgICAgICAgRmlsZSBsbEZpbGVTdGFjayA9IG5ldyBGaWxlKG91dHB1dEJlbmNobWFya0ZvbGRlciArICIvIiArIG1pbmlGaWxlLmdldE5hbWUoKS5zdWJzdHJpbmcoMCwgbWluaUZpbGUuZ2V0TmFtZSgpLmxlbmd0aCgpIC0gNSkgKyAiLnN0YWNrLmxsIik7CgogICAgICAgICAgICB0cnkgKFByaW50V3JpdGVyIHdyaXRlciA9IG5ldyBQcmludFdyaXRlcihsbEZpbGUpKSB7CiAgICAgICAgICAgICAgICB3cml0ZXIud3JpdGUobGx2bS5vdXRwdXRMTFZNKCkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHRyeSAoUHJpbnRXcml0ZXIgd3JpdGVyID0gbmV3IFByaW50V3JpdGVyKGxsRmlsZVN0YWNrKSkgewogICAgICAgICAgICAgICAgd3JpdGVyLndyaXRlKGxsdm1TdGFjay5vdXRwdXRMTFZNKCkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBBcm1HcmFwaCBhcm1TdGFjayA9IG5ldyBBcm1HcmFwaChsbHZtU3RhY2spOwogICAgICAgICAgICBGaWxlIGFybUZpbGVTdGFjayA9IG5ldyBGaWxlKG91dHB1dEJlbmNobWFya0ZvbGRlciArICIvIiArIG1pbmlGaWxlLmdldE5hbWUoKS5zdWJzdHJpbmcoMCwgbWluaUZpbGUuZ2V0TmFtZSgpLmxlbmd0aCgpIC0gNSkgKyAiLnN0YWNrLnMiKTsKICAgICAgICAgICAgdHJ5IChQcmludFdyaXRlciB3cml0ZXIgPSBuZXcgUHJpbnRXcml0ZXIoYXJtRmlsZVN0YWNrKSkgewogICAgICAgICAgICAgICAgd3JpdGVyLndyaXRlKGFybVN0YWNrLnRvU3RyaW5nKCkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBBcm1HcmFwaCBhcm1TU0EgPSBuZXcgQXJtR3JhcGgobGx2bSk7CiAgICAgICAgICAgIEZpbGUgYXJtRmlsZVNTQSA9IG5ldyBGaWxlKG91dHB1dEJlbmNobWFya0ZvbGRlciArICIvIiArIG1pbmlGaWxlLmdldE5hbWUoKS5zdWJzdHJpbmcoMCwgbWluaUZpbGUuZ2V0TmFtZSgpLmxlbmd0aCgpIC0gNSkgKyAiLnNzYS5zIik7CiAgICAgICAgICAgIHRyeSAoUHJpbnRXcml0ZXIgd3JpdGVyID0gbmV3IFByaW50V3JpdGVyKGFybUZpbGVTU0EpKSB7CiAgICAgICAgICAgICAgICB3cml0ZXIud3JpdGUoYXJtU1NBLnRvU3RyaW5nKCkpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICBDb21tb25Ub2tlblN0cmVhbSB0b2tlbnMgPSBuZXcgQ29tbW9uVG9rZW5TdHJlYW0oY3JlYXRlTGV4ZXIoKSk7Ci8vICAgICAgTWluaVBhcnNlciBwYXJzZXIgPSBuZXcgTWluaVBhcnNlcih0b2tlbnMpOwovLyAgICAgIFBhcnNlVHJlZSB0cmVlID0gcGFyc2VyLnByb2dyYW0oKTsKLy8KLy8gICAgICBpZiAocGFyc2VyLmdldE51bWJlck9mU3ludGF4RXJyb3JzKCkgPT0gMCkKLy8gICAgICB7Ci8vICAgICAgICAgLyoKLy8gICAgICAgICAgICBUaGlzIHZpc2l0b3Igd2lsbCBjcmVhdGUgYSBKU09OIHJlcHJlc2VudGF0aW9uIG9mIHRoZSBBU1QuCi8vICAgICAgICAgICAgVGhpcyBpcyBwcmltYXJpbHkgaW50ZW5kZWQgdG8gYWxsb3cgdXNlIG9mIGxhbmd1YWdlcyBvdGhlcgovLyAgICAgICAgICAgIHRoYW4gSmF2YS4gIFRoZSBwYXJzZXIgY2FuIHRodXNseSBiZSB1c2VkIHRvIGdlbmVyYXRlIEpTT04KLy8gICAgICAgICAgICBhbmQgdGhlIG5leHQgcGhhc2Ugb2YgdGhlIGNvbXBpbGVyIGNhbiByZWFkIHRoZSBKU09OIHRvIGJ1aWxkCi8vICAgICAgICAgICAgYSBsYW5ndWFnZS1zcGVjaWZpYyBBU1QgcmVwcmVzZW50YXRpb24uCi8vICAgICAgICAgKi8KLy8gICAgICAgICBNaW5pVG9Kc29uVmlzaXRvciBqc29uVmlzaXRvciA9IG5ldyBNaW5pVG9Kc29uVmlzaXRvcigpOwovLyAgICAgICAgIEpzb25WYWx1ZSBqc29uID0ganNvblZpc2l0b3IudmlzaXQodHJlZSk7Ci8vCi8vICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGpzb24pOwovLwovLyAgICAgICAgIC8qCi8vICAgICAgICAgICAgVGhpcyB2aXNpdG9yIHdpbGwgYnVpbGQgYW4gb2JqZWN0IHJlcHJlc2VudGF0aW9uIG9mIHRoZSBBU1QKLy8gICAgICAgICAgICBpbiBKYXZhIHVzaW5nIHRoZSBwcm92aWRlZCBjbGFzc2VzLgovLyAgICAgICAgICovCi8vICAgICAgICAgTWluaVRvQXN0UHJvZ3JhbVZpc2l0b3IgcHJvZ3JhbVZpc2l0b3IgPSBuZXcgTWluaVRvQXN0UHJvZ3JhbVZpc2l0b3IoKTsKLy8gICAgICAgICBhc3QuUHJvZ3JhbSBwcm9ncmFtID0gcHJvZ3JhbVZpc2l0b3IudmlzaXQodHJlZSk7Ci8vICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEZpbGVbXSB0b1Rlc3QgPSB7bmV3IEZpbGUoYWxsQmVuY2htYXJrcyArICIvYV9zaW1wbGVfdGVzZXQiKX07Cg==</text>
+        <text encoding="base64">ICAgICAgRmlsZSBpbnB1dEZpbGUgPSBuZXcgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEZpbGVbXSB0b1Rlc3QgPSB7bmV3IEZpbGUoYWxsQmVuY2htYXJrcyArICIvYV9zaW1wbGVfdGVzZXQiKX07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
