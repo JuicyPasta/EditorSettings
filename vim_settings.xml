@@ -31,12 +31,11 @@
         <mark key="." line="19" column="93" />
         <mark key="^" line="19" column="93" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/ReturnStatement.java" timestamp="1526438743587">
-        <mark key="'" line="51" column="12" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="43" column="44" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/ReturnStatement.java" timestamp="1528625848933">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="78" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmAdd.java" timestamp="1524961998177">
         <mark key="'" line="5" column="0" />
@@ -72,6 +71,12 @@
         <mark key="]" line="5" column="49" />
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="49" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Instruction.java" timestamp="1528136714709">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/BinaryInstruction.java" timestamp="1525902178638">
         <mark key="'" line="68" column="8" />
@@ -210,6 +215,12 @@
         <mark key="^" line="37" column="68" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/brett/brett.mini" timestamp="1528145816836" />
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" timestamp="1527977721639">
+        <mark key="[" line="52" column="64" />
+        <mark key="]" line="52" column="64" />
+        <mark key="." line="52" column="64" />
+        <mark key="^" line="52" column="64" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/Bitcast.java" timestamp="1526172012040">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="37" column="65" />
@@ -298,6 +309,12 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/stats/input" timestamp="1527981331434">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmMoveq.java" timestamp="1525847258240">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="7" column="34" />
@@ -368,12 +385,24 @@
         <mark key="^" line="27" column="73" />
         <mark key="." line="27" column="73" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/instructions/ArmStr.java" timestamp="1527661171370">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+      </file>
       <file name="E:/Google Drive/School/CSC365/lab3/bakery/bakery-cleanup.sql" timestamp="1507707267334">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="1" />
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/InstructionSetsResult.java" timestamp="1527649168639">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+        <mark key="." line="10" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" timestamp="1528624705136">
         <mark key="'" line="29" column="8" />
@@ -648,7 +677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/creativeBenchMarkName/creativeBenchMarkName.mini" />
       <jump line="47" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/benchmarks/creativeBenchMarkName/creativeBenchMarkName.mini" />
       <jump line="56" column="0" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
       <jump line="65" column="16" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/llvm/instructions/CallScanf.java" />
@@ -748,43 +776,44 @@
       <jump line="29" column="8" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/ArmFunctionGraph.java" />
       <jump line="28" column="4" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/InterferenceGraph.java" />
       <jump line="83" column="18" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/cfg/arm/InterferenceGraph.java" />
+      <jump line="30" column="12" filename="$USER_HOME$/IdeaProjects/MiniCompiler/src/ast/statements/ReturnStatement.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>benchmarks/mixed/mixed.mini</text>
+        <text>retType</text>
       </register>
       <register name="/" type="4">
         <text>System.out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbXBpbGVMbHZtKG1pbmlGaWxlLCBfb3V0cHV0U3NhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJldFR5cGUuZ2V0Q2xhc3MoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">amF2YSAtY3Agb3V0L3Byb2R1Y3Rpb24vTWluaUNvbXBpbGVyLzpqYXJzL2FudGxyLjcuMS1jb21wbGV0ZS5qYXIgTWluaUNvbXBpbGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGV4cHJlc3Npb24uZ2V0VHlwZShjdHgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXJnczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJldFR5cGUuZ2V0Q2xhc3MoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJldFR5cGUuZ2V0Q2xhc3MoKSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihleHByZXNzaW9uLmdldC5nZXRDbGFzcygpKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">amF2YSAtY3Agb3V0L3Byb2R1Y3Rpb24vTWluaUNvbXBpbGVyLzpqYXJzL2FudGxyLjcuMS1jb21wbGV0ZS5qYXIgTWluaUNvbXBpbGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">YXJnczoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8dGFyZ2V0IG5hbWU9ImNsZWFuIiBkZXBlbmRzPSJjbGVhbi5tb2R1bGUubWluaWNvbXBpbGVyIiBkZXNjcmlwdGlvbj0iY2xlYW51cCBhbGwiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">amF2YSAtY3Agb3V0L3Byb2R1Y3Rpb24vTWluaUNvbXBpbGVyLzpqYXJzL2FudGxyLjcuMS1jb21wbGV0ZS5qYXIgTWluaUNvbXBpbGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8dGFyZ2V0IG5hbWU9ImNsZWFuLm1vZHVsZS5taW5pY29tcGlsZXIiIGRlc2NyaXB0aW9uPSJjbGVhbnVwIG1vZHVsZSI+CiAgICA8ZGVsZXRlIGRpcj0iJHttaW5pY29tcGlsZXIub3V0cHV0LmRpcn0iLz4KICAgIDxkZWxldGUgZGlyPSIke21pbmljb21waWxlci50ZXN0b3V0cHV0LmRpcn0iLz4KICA8L3RhcmdldD4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJET0lORyBUSElOR1MiKTsK</text>
+        <text encoding="base64">ICA8dGFyZ2V0IG5hbWU9ImNsZWFuIiBkZXBlbmRzPSJjbGVhbi5tb2R1bGUubWluaWNvbXBpbGVyIiBkZXNjcmlwdGlvbj0iY2xlYW51cCBhbGwiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
